@@ -4,7 +4,7 @@ st.write('This is page 2')
 
 
 st.button('Hit me')
-st.data_editor('Edit data', data)
+#st.data_editor('Edit data', data)
 st.checkbox('Check me out')
 st.radio('Pick one:', ['nose','ear'])
 st.selectbox('Select', [1,2,3])
